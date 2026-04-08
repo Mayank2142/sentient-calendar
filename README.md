@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <img src="./public/screenshots/hero.png" alt="Desktop View of Sentient Wall Calendar" width="830px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+  <img src="./public/screenshots/hero.png" alt="Desktop View of Sentient Wall Calendar" width="850px" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
 </div>
 
 <br/>
